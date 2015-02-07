@@ -1,0 +1,49 @@
+#google
+{
+    background:#cccccc;
+}
+#google .img
+{
+    margin:0 auto;
+    width:431px;
+    height:369px;
+    background:transparent url('google.png') no-repeat;
+}
+#google .rightlink
+{
+    float:right;
+    display:inline-block;
+    margin-top:20px;
+    text-decoration:none;
+    color:white;
+    border-bottom:1px dotted white;
+}
+#google .paragraph
+{
+    background:#66ccff;
+    color:white;
+    width:500px;
+    height:80px;
+    border:1px dashed white;
+    padding:10px;
+}
+#google .div
+{
+    display:inline-block;
+    float:left;
+    margin:20px;
+    background:#ffffff;
+    width:530px;
+    padding:10px;
+    border-radius:12px;
+}
+#google .marginTop
+{
+    margin-top:20px;
+}
+#google table caption
+{
+    padding:10px;
+    font-size:22px;
+    font-weight:bold;
+}
